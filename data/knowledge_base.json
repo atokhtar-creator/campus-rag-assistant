@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Password reset",
+    "question": "How do I reset my university account password?",
+    "answer": "Use the university password reset procedure or contact IT support if self-service recovery is unavailable."
+  },
+  {
+    "title": "Learning management system",
+    "question": "Where can I find my courses and assignments?",
+    "answer": "Open the university learning management system and check the Courses section. Contact support if a registered course is missing."
+  },
+  {
+    "title": "Student requests",
+    "question": "How can I check the status of a submitted request?",
+    "answer": "Open the student portal, go to your requests or documents section, and check the current status and history."
+  },
+  {
+    "title": "Corporate email",
+    "question": "How do I access my university email?",
+    "answer": "Sign in to the university email service using your corporate account. If authentication fails, verify the account credentials or contact IT support."
+  }
+]
